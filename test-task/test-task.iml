@@ -60,5 +60,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: dom4j:dom4j:1.6.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: xml-apis:xml-apis:1.0.b2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="io.vertx:vertx-amqp-client:3.9.1" level="application" />
   </component>
 </module>

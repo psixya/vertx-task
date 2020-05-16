@@ -92,7 +92,12 @@
       <version>${vertx.testtools.version}</version>
       <scope>test</scope>
     </dependency>
-
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-amqp-client</artifactId>
+      <version>3.9.0</version>
+      <scope>provided</scope>
+    </dependency>
     <!-- Add any other dependencies that you want packaged into your module (in the lib dir) here
     as 'compile' dependencies. Here is an example
     <dependency>

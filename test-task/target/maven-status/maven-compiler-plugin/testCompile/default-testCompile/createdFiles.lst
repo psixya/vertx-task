@@ -1,0 +1,14 @@
+com\task\integration\ruby\RubyIntegrationTests.class
+com\task\integration\java\BasicIntegrationTest.class
+com\task\unit\ExampleUnitTest.class
+com\task\integration\java\BasicIntegrationTest$2.class
+com\task\integration\java\ModuleIntegrationTest$2.class
+com\task\integration\java\ModuleIntegrationTest$1.class
+com\task\integration\java\BasicIntegrationTest$3.class
+com\task\integration\java\ModuleIntegrationTest.class
+com\task\integration\java\SomeVerticle.class
+com\task\integration\python\PythonIntegrationTests.class
+com\task\integration\java\BasicIntegrationTest$1.class
+com\task\integration\javascript\JavaScriptIntegrationTests.class
+com\task\integration\java\BasicIntegrationTest$1$1.class
+com\task\integration\groovy\GroovyIntegrationTests.class

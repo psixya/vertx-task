@@ -2,14 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03f6ad14-b8a5-479f-ad43-d836e2d8c0bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/task/PingVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/task/PingVerticle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task/PingVerticle$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task/PingVerticle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.task.unit.ExampleUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.task.unit.ExampleUnitTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.task.unit.ExampleUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.task.unit.ExampleUnitTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-task-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-task-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.groovy.GroovyIntegrationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.java.BasicIntegrationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.java.ModuleIntegrationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.javascript.JavaScriptIntegrationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.python.PythonIntegrationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.task.integration.ruby.RubyIntegrationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.groovy.GroovyIntegrationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.java.BasicIntegrationTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.java.ModuleIntegrationTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.javascript.JavaScriptIntegrationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.python.PythonIntegrationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.task.integration.ruby.RubyIntegrationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/GroovyVerticle.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/JavaSourcePingVerticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/com/task/PingVerticle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/com/task/PingVerticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/mod.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/ping_verticle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/ping_verticle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mods/com.task~test-task~1.0.0-SNAPSHOT/platform_lib/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/failsafe-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/surefire-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.task.unit.ExampleUnitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.task.unit.ExampleUnitTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/groovy/GroovyIntegrationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/BasicIntegrationTest$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/BasicIntegrationTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/BasicIntegrationTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/BasicIntegrationTest$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/BasicIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/ModuleIntegrationTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/ModuleIntegrationTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/ModuleIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/java/SomeVerticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/javascript/JavaScriptIntegrationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/python/PythonIntegrationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/integration/ruby/RubyIntegrationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/task/unit/ExampleUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/groovy/BasicIntegrationTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/groovy/ModuleIntegrationTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/javascript/basicIntegrationTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/javascript/moduleIntegrationTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/python/basic_integration_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/python/module_integration_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/ruby/basic_integration_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration_tests/ruby/module_integration_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-task-1.0.0-SNAPSHOT-mod.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-task-1.0.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-task.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -33,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+            <state relative-caret-position="614">
+              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -42,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/task/PingVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="340">
+              <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,6 +116,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>vertx-core</find>
+      <find>fat</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,66 +149,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/test-task.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk15_140.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_eclipsesource_minimal_json_minimal_json_0_9_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_3_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_code_generator_3_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_21_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_testtools_2_0_3_final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_core_2_1_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_hazelcast_2_1_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_platform_2_1_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_findbugs_annotations_1_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_api_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_constants_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_entry_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_jndi_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_dns_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_shared_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_utils_1_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_codec_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_cursor_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_dsml_parser_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_i18n_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_constants_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_converter_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_jndi_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_dao_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_loader_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_manager_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_shared_shared_ldif_0_9_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_mina_mina_core_2_0_0_RC1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
@@ -245,10 +237,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41149426" />
   </component>
@@ -307,6 +299,18 @@
     <history-entry file="ExampleUnitTest_testVerticle - 2020.05.16 at 11h 56m 00s.xml">
       <configuration name="ExampleUnitTest.testVerticle" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExampleUnitTest_testVerticle - 2020.05.16 at 12h 42m 31s.xml">
+      <configuration name="ExampleUnitTest.testVerticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExampleUnitTest_testVerticle - 2020.05.16 at 12h 43m 03s.xml">
+      <configuration name="ExampleUnitTest.testVerticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExampleUnitTest_testVerticle - 2020.05.16 at 12h 44m 40s.xml">
+      <configuration name="ExampleUnitTest.testVerticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExampleUnitTest_testVerticle - 2020.05.16 at 12h 52m 39s.xml">
+      <configuration name="ExampleUnitTest.testVerticle" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
@@ -322,10 +326,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969603" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,17 +352,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-amqp-client/3.9.1/vertx-amqp-client-3.9.1-sources.jar!/io/vertx/amqp/AmqpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        <state relative-caret-position="614">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/task/PingVerticle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="340">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -406,10 +421,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.41149426" />
               </list>
             </option>
           </splitter-proportions>

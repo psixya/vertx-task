@@ -26,6 +26,7 @@ public class ExampleUnitTest {
   public void testVerticle() {
     PingVerticle vert = new PingVerticle();
 
+
     // do something with verticle
   }
 }
